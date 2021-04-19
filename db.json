@@ -1,4 +1,4 @@
-[
+{ "cryptolist" : [
     {
         "id": "bitcoin",
         "name": "Bitcoin",
@@ -84,4 +84,5 @@
         "percent_change_7d": "63.09",
         "last_updated": "1524706454"
     }
-]
+] 
+}
