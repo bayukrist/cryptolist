@@ -1,87 +1,32 @@
 {"crypto" :[
     {
-        "id": "bitcoin",
         "name": "Bitcoin",
         "symbol": "BTC",
-        "rank": "1",
-        "price_usd": "8841.94",
-        "price_btc": "1.0",
-        "24h_volume_usd": "10913400000.0",
-        "market_cap_usd": "150305349406",
-        "available_supply": "16999137.0",
-        "total_supply": "16999137.0",
-        "max_supply": "21000000.0",
-        "percent_change_1h": "0.86",
-        "percent_change_24h": "-8.27",
-        "percent_change_7d": "8.16",
-        "last_updated": "1524706475"
+        "price_rp": 128064006.38,
+        "percent_change_1h": 0.86
     },
     {
-        "id": "ethereum",
         "name": "Ethereum",
         "symbol": "ETH",
-        "rank": "2",
-        "price_usd": "617.745",
-        "price_btc": "0.0700861",
-        "24h_volume_usd": "4148050000.0",
-        "market_cap_usd": "61187317122.0",
-        "available_supply": "99049474.0",
-        "total_supply": "99049474.0",
-        "max_supply": null,
-        "percent_change_1h": "1.53",
-        "percent_change_24h": "-11.16",
-        "percent_change_7d": "17.18",
-        "last_updated": "1524706459"
+        "price_usd": 8947233.26,
+        "percent_change_1h": 1.53
     },
     {
-        "id": "ripple",
         "name": "Ripple",
         "symbol": "XRP",
-        "rank": "3",
-        "price_usd": "0.799251",
-        "price_btc": "0.00009068",
-        "24h_volume_usd": "1583480000.0",
-        "market_cap_usd": "31287642212.0",
-        "available_supply": "39146203398.0",
-        "total_supply": "99992334929.0",
-        "max_supply": "100000000000",
-        "percent_change_1h": "2.33",
-        "percent_change_24h": "-13.01",
-        "percent_change_7d": "11.24",
-        "last_updated" : "1524706442"
+        "price_usd": 11576.11,
+        "percent_change_1h": 2.33
     },
     {
-        "id": "bitcoin-cash",
         "name": "Bitcoin Cash",
         "symbol": "BCH",
-        "rank": "4",
-        "price_usd": "1313.45",
-        "price_btc": "0.149018",
-        "24h_volume_usd": "1775390000.0",
-        "market_cap_usd": "22451999373.0",
-        "available_supply": "17093913.0",
-        "total_supply": "17093913.0",
-        "max_supply":  "21000000.0",
-        "percent_change_1h": "3.74",
-        "percent_change_24h": "-6.25",
-        "percent_change_7d": "48.5",
-        "last_updated": "1524706455"
+        "price_usd": 19023615.77,
+        "percent_change_1h": 3.74
     },
     {
-        "id": "eos",
         "name": "EOS",
         "symbol": "EOS",
-        "rank": "5",
-        "price_usd": "14.7144",
-        "price_btc": "0.00166942",
-        "24h_volume_usd": "2914910000.0",
-        "market_cap_usd": "12019951453.0",
-        "available_supply": "816883560.0",
-        "total_supply": "900000000.0",
-        "max_supply": "1000000000.0",
-        "percent_change_1h": "3.94",
-        "percent_change_24h": "-3.09",
-        "percent_change_7d": "63.09",
-        "last_updated": "1524706454"
+        "price_usd": 213118.96,
+        "percent_change_1h": 3.94
     }
 ] }
