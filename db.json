@@ -4,34 +4,34 @@
         "symbol": "BTC",
         "price_rp": "128064006.38",
         "percent_change_1h": "0.86",
-        "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
+        "iconURL" : "https://cdn.icon-icons.com/icons2/1487/PNG/512/8369-bitcoin_102502.png"
     },
     {
         "name": "Ethereum",
         "symbol": "ETH",
         "price_rp": "8947233.26",
         "percent_change_1h": "1.53",
-        "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
+        "iconURL" : "https://cdn.icon-icons.com/icons2/2108/PNG/512/ethereum_icon_130942.png"
     },
     {
         "name": "Ripple",
         "symbol": "XRP",
         "price_rp": "11576.11",
         "percent_change_1h": "2.33",
-        "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
+        "iconURL" : "https://cdn.icon-icons.com/icons2/2389/PNG/512/ripple_logo_icon_144928.png"
     },
     {
         "name": "Bitcoin Cash",
         "symbol": "BCH",
         "price_rp": "19023615.77",
         "percent_change_1h": "3.74",
-        "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
+        "iconURL" : "https://cdn.icon-icons.com/icons2/1487/PNG/512/8369-bitcoin_102502.png"
     },
     {
         "name": "EOS",
         "symbol": "EOS",
         "price_rp": "213118.96",
         "percent_change_1h": "3.94",
-        "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
+        "iconURL" : "https://cdn.icon-icons.com/icons2/1384/PNG/512/eos-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95175.png"
     }
 ] }
