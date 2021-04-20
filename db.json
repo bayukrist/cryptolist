@@ -2,31 +2,36 @@
     {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "price_rp": 128064006.38,
-        "percent_change_1h": 0.86
+        "price_rp": "128064006.38",
+        "percent_change_1h": "0.86",
+        "iconURL" : ""
     },
     {
         "name": "Ethereum",
         "symbol": "ETH",
-        "price_usd": 8947233.26,
-        "percent_change_1h": 1.53
+        "price_usd": "8947233.26",
+        "percent_change_1h": "1.53",
+        "iconURL" : ""
     },
     {
         "name": "Ripple",
         "symbol": "XRP",
-        "price_usd": 11576.11,
-        "percent_change_1h": 2.33
+        "price_usd": "11576.11",
+        "percent_change_1h": "2.33",
+        "iconURL" : ""
     },
     {
         "name": "Bitcoin Cash",
         "symbol": "BCH",
-        "price_usd": 19023615.77,
-        "percent_change_1h": 3.74
+        "price_usd": "19023615.77",
+        "percent_change_1h": "3.74",
+        "iconURL" : ""
     },
     {
         "name": "EOS",
         "symbol": "EOS",
-        "price_usd": 213118.96,
-        "percent_change_1h": 3.94
+        "price_usd": "213118.96",
+        "percent_change_1h": "3.94",
+        "iconURL" : ""
     }
 ] }
