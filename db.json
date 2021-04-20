@@ -1,4 +1,4 @@
-{ "cryptolist" : [
+[
     {
         "id": "bitcoin",
         "name": "Bitcoin",
@@ -85,4 +85,3 @@
         "last_updated": "1524706454"
     }
 ] 
-}
