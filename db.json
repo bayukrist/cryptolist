@@ -9,28 +9,28 @@
     {
         "name": "Ethereum",
         "symbol": "ETH",
-        "price_usd": "8947233.26",
+        "price_rp": "8947233.26",
         "percent_change_1h": "1.53",
         "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
     },
     {
         "name": "Ripple",
         "symbol": "XRP",
-        "price_usd": "11576.11",
+        "price_rp": "11576.11",
         "percent_change_1h": "2.33",
         "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
     },
     {
         "name": "Bitcoin Cash",
         "symbol": "BCH",
-        "price_usd": "19023615.77",
+        "price_rp": "19023615.77",
         "percent_change_1h": "3.74",
         "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
     },
     {
         "name": "EOS",
         "symbol": "EOS",
-        "price_usd": "213118.96",
+        "price_rp": "213118.96",
         "percent_change_1h": "3.94",
         "iconURL" : "https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"
     }
